@@ -1,6 +1,6 @@
 # Telegram Mini Apps Catalog
 
-> A verified catalog of 29 Telegram Mini Apps. Every entry is re-checked weekly, including whether the Telegram bot still exists. Last verified 2026-09-14.
+> A verified catalog of 29 Telegram Mini Apps. Every entry is re-checked weekly, including whether the Telegram bot still exists. Last verified 2026-09-21.
 
 Entries flagged as inactive or unreachable are marked as such below rather than silently removed.
 
@@ -13,7 +13,7 @@ Structured data: https://github.com/coolpac/telegram-mini-apps-catalog/blob/main
 - [BookClass](https://t.me/BookClassBot): Class booking Mini App for studios, trainers, and instructors of any kind.
 - [Daily Tarot](https://t.me/thisisthedailytarotbot): Daily tarot card pull with Mini App, Rider-Waite deck (public domain), 7 languages, Telegram Stars payments.
 - [DefyTON](https://t.me/DefyTONBot/app): AI-verified habit challenges with GRAM staking and TON Connect integration.
-- [EventEdge](https://t.me/polym_lab_bot): Backtest and paper-trade strategies on prediction markets (Polymarket, Manifold, Kalshi) with no code and no wallet connection.
+- [EventEdge](https://t.me/polym_lab_bot): Backtest and paper-trade strategies on prediction markets (Polymarket, Manifold, Kalshi) with no code and no wallet connection. [unreachable: Telegram shows a placeholder page ('Telegram: Contact @polym_lab_bot') — the bot no longer exists]
 - [Gategram](https://gategram.app): Sell digital content on Telegram with native Stars payments. Open-source, 95% creator earnings.
 - [Invoice Generator](https://t.me/freelance_inv_bot): Create and send professional invoices to clients directly inside Telegram.
 - [Lexicon](https://t.me/lexicon_snap_bot?startapp=cat_awesome): Flashcards for memorizing foreign words: own decks by language pair, auto-translate suggestions, streaks and reminders. Pixel-art UI, EN/RU/PT/ES/FR.

@@ -8,7 +8,7 @@ has been untouched.
 
 **Submissions get a decision within 7 days.** See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **29 apps**, last verified **2026-09-14**
+- **29 apps**, last verified **2026-09-21**
 - **3** flagged as inactive — listed, but marked, not quietly left to rot
 - Machine-readable copy: [`data/apps.json`](data/apps.json)
 - Every entry records who contributed it and when it was last checked
@@ -28,7 +28,7 @@ has been untouched.
 - [BookClass](https://t.me/BookClassBot) - Class booking Mini App for studios, trainers, and instructors of any kind.
 - [Daily Tarot](https://t.me/thisisthedailytarotbot) - Daily tarot card pull with Mini App, Rider-Waite deck (public domain), 7 languages, Telegram Stars payments.
 - [DefyTON](https://t.me/DefyTONBot/app) - AI-verified habit challenges with GRAM staking and TON Connect integration.
-- [EventEdge](https://t.me/polym_lab_bot) - Backtest and paper-trade strategies on prediction markets (Polymarket, Manifold, Kalshi) with no code and no wallet connection.
+- [EventEdge](https://t.me/polym_lab_bot) - Backtest and paper-trade strategies on prediction markets (Polymarket, Manifold, Kalshi) with no code and no wallet connection.  ⚠️ *Telegram shows a placeholder page ('Telegram: Contact @polym_lab_bot') — the bot no longer exists*
 - [Gategram](https://gategram.app) - Sell digital content on Telegram with native Stars payments. Open-source, 95% creator earnings.
 - [Invoice Generator](https://t.me/freelance_inv_bot) - Create and send professional invoices to clients directly inside Telegram.
 - [Lexicon](https://t.me/lexicon_snap_bot?startapp=cat_awesome) - Flashcards for memorizing foreign words: own decks by language pair, auto-translate suggestions, streaks and reminders. Pixel-art UI, EN/RU/PT/ES/FR.
